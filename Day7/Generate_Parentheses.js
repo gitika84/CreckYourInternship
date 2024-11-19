@@ -27,4 +27,3 @@ function generateParentheses(n) {
 console.log(generateParentheses(3));
 
 
-console.log(generateParentheses(1));

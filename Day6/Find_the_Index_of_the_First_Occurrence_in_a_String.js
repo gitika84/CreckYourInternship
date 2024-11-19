@@ -14,7 +14,10 @@ function strStr(haystack, needle) {
     return -1; 
 }
 
+
 console.log(strStr("hello", "ll"));
 console.log(strStr("aaaaa", "bba"));
 console.log(strStr("", ""));        
-console.log(strStr("abc", "c"));   
+console.log(strStr("abc", "c"));
+
+
